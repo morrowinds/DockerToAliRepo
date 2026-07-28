@@ -1,2 +1,5 @@
 hurryos/iptvs-app:latest
 guovern/iptv-api:latest
+hurryos/iptvs-app:arm64
+hurryos/iptvs-app:f1aa86ecfc6b4f56ab35730e81a56592ecc3e56e
+hurryos/iptvs-app:450def3543c39fa1601a7f7b63948e8813806b55
